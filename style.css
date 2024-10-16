@@ -116,6 +116,7 @@
 }
 @media only screen and (min-width: 600px) {
 	
+	
 }
 .menu-content{
 	width: 100%;
@@ -126,8 +127,11 @@
 
 
 #toggle{
-	display: none;
+	display: block;
 	
+}
+#header{
+	display: none;
 }
 
 
