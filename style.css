@@ -101,14 +101,20 @@
 	color: white;
 	text-decoration: none;
 	padding: 8px 12px;
+	height: 20px;
 }
 #footer{
-	height: 50px;
-	background-color: black;
+	height: 20px;
+
 	color: white;
-	padding: 15px;
+	padding: 0px px;
 	text-align: center;
 	
+}
+#footer > p{
+	margin-top: 53px;
+	color: black;
+	font-weight: bold;
 }
 #footer span{
 	color: yellow;
